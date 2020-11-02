@@ -1,0 +1,32 @@
+.text {
+    text-align:center;
+}
+
+.b1 {
+    background-color:pink;
+    color:black; 
+}
+
+a:link {
+    color: rgb(2, 0, 128);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(132, 0, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color:green;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(4, 0, 255);
+    background-color: transparent;
+    text-decoration: underline;
+}
