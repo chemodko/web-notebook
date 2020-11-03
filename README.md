@@ -10,7 +10,7 @@
 ## Configure Tomcat
 
   1. copy files from this repository to /home/user/apache-tomcat-9.0.39/webapps/
-  2. copy /home/user/apache-tomcat-9.0.39/webapps/lab15/tomcat-users.xml to /home/user/apache-tomcat-9.0.39/conf (overwrite existing file)
+  2. copy /home/user/apache-tomcat-9.0.39/webapps/lab13/tomcat-users.xml to /home/user/apache-tomcat-9.0.39/conf (overwrite existing file)
   4. go to http://localhost:8080/manager/html/ (login:tomcat password:tomcat)
   5. manage your servlets (stop, start, reload etc)
 
